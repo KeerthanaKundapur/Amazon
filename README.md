@@ -5,6 +5,9 @@ The objective of generating an Amazon Sales report through a tableau dashboard i
 
 **Tool:** Tableau (For data cleaning and Visualization)
 	        Excel (extract data from excel)
+	 
+**Dashboard:**
+<img width="800" alt="Amazon Sales" src="https://github.com/KeerthanaKundapur/Amazon/assets/112420165/3ffd3cb0-1009-454f-9235-ea3ca5116b78">
 
 **KPI's:**
 Total Number of Products: This KPI would provide stakeholders with an overview of the total number of unique products sold on Amazon during the selected timeframe. It could be broken down by product category or size to provide additional insights.
