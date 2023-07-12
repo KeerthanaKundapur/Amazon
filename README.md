@@ -3,8 +3,7 @@
 **Objective:**
 The objective of generating an Amazon Sales report through a tableau dashboard is to offer stakeholders valuable insights regarding the performance of the e-commerce platform. These insights will cover several key areas, including the total quantity of products sold, the total amount generated from sales, the number of distinct products sold, the distribution of sales across different product sizes, and the breakdown of sales by product categories.
 
-**Tool:** Tableau (For data cleaning and Visualization)
-	        Excel (extract data from excel)
+**Tool:** Tableau (For data cleaning and Visualization) 
 	 
 **Dashboard:**
 <img width="800" alt="Amazon Sales" src="https://github.com/KeerthanaKundapur/Amazon/assets/112420165/3ffd3cb0-1009-454f-9235-ea3ca5116b78">
